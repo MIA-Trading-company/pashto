@@ -1,0 +1,4 @@
+[submodule "MIA-Trading-company/pashto"]
+	path = MIA-Trading-company/pashto
+	url = git@github.com:MIA-Trading-company/pashto.git
+	branch = odoo.sh
